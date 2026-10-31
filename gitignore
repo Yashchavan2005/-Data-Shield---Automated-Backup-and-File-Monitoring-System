@@ -1,0 +1,28 @@
+# Virtual Environment
+
+Yash_Env/
+venv/
+.venv/
+
+# Python Cache Files
+
+**pycache**/
+*.py[cod]
+
+# Log Files
+
+*.log
+Logs/
+
+# IDE Settings
+
+.vscode/
+
+# Operating System Files
+
+Thumbs.db
+.DS_Store
+
+# Backup Data
+
+YashBackup/
